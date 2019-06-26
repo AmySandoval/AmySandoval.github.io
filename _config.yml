@@ -111,6 +111,7 @@ author:
   bio              : "Econometrics and Data Science Portfolio"
   location         : "College Station, Texas"
   email            : "AmyDSandoval16@gmail.com"
+  LinkedIn         : "https://www.linkedin.com/in/amydsandoval/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,8 +120,8 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-        icon: "fab fa-fw fa-twitter-square"
-        url: https://www.linkedin.com/in/amydsandoval/
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -143,9 +144,8 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "LinkedIn"
-        icon: "fab fa-fw fa-twitter-square"
-        url: https://www.linkedin.com/in/amydsandoval/
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amy Sandoval"
+title                    : "Amy_Sandoval"
 title_separator          : "-"
 name                     : "Amy Sandoval"
 description              : "Econometrics and Data Science Portfolio"
@@ -299,4 +299,4 @@ defaults:
     type: pages
   values:
     layout: single
-    author_profile: true 
+    author_profile: true

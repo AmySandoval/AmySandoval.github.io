@@ -119,7 +119,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+        icon: "fab fa-fw fa-twitter-square"
         url: https://www.linkedin.com/in/amydsandoval/
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
@@ -144,7 +144,7 @@ footer:
       icon: "fab fa-fw fa-github"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+        icon: "fab fa-fw fa-twitter-square"
         url: https://www.linkedin.com/in/amydsandoval/
       # url:
     - label: "Bitbucket"

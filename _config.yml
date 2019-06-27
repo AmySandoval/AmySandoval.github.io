@@ -118,7 +118,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "LinkedIn"
       icon: "fa fa-linkedin-square"
-       url: "https://www.linkedin.com/in/amydsandoval/"
+       url: https://www.linkedin.com/in/amydsandoval/
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

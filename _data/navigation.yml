@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://amysandoval.github.io/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Papers"
+    url: https://amysandoval.github.io/papers/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

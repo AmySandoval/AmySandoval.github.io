@@ -6,7 +6,6 @@ author_profile: true
 header:
   #image: ""
 ---
-{%"tags"="papers"%}
 
 {% include group-by-array collection=site.posts field="tags" %}
 

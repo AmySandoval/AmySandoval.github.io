@@ -5,5 +5,6 @@ title: "Papers"
 author_profile: true
 header:
   #image: ""
-- Label: "DOES THE OWNERS’ GENDERS IMPACT THEIR BUSINESS’ ANNUAL PAYROLL?"
+---
+"DOES THE OWNERS’ GENDERS IMPACT THEIR BUSINESS’ ANNUAL PAYROLL?"
   hyperlink: "‎⁨desktop/Amy/SandovalAmy_WritingSample.pdf⁩"

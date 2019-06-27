@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /papers/
-title: "Papers"
+title: "Econometric Papers"
 author_profile: true
 header:
   #image: ""

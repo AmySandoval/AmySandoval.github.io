@@ -1,7 +1,7 @@
 ---
 title: "DOES THE OWNERS’ GENDERS IMPACT THEIR BUSINESS’ ANNUAL PAYROLL?"
 date: 2019-05-30
-tags: [stata, data analysis, papers]
+tags: 
 header:
   # images
 # excerpt:

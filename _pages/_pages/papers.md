@@ -6,4 +6,4 @@ author_profile: true
 header:
   #image: ""
 - Label: "DOES THE OWNERS’ GENDERS IMPACT THEIR BUSINESS’ ANNUAL PAYROLL?"
-  link: "‎⁨desktop/Amy/SandovalAmy_WritingSample.pdf⁩"
+  hyperlink: "‎⁨desktop/Amy/SandovalAmy_WritingSample.pdf⁩"

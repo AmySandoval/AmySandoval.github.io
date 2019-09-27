@@ -12,5 +12,5 @@ I am currently a printer bench technician specialist at the software company Rey
 
 Please check out my projects tab for more of my work using different programming languages and my papers tab demonstrating my data analytic skills.
 
-[Click Here To View My Resume](https://drive.google.com/file/d/10MiSXwI5BQm9gtBC6no0jV6IG9pvevqt/view?usp=sharing)
+[Click Here To View My Resume](https://drive.google.com/file/d/1UUKGu-RkokW9TLf7NfsiZRstr3KvHznB/view?usp=sharing)
 --

@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Amy Sandoval"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Econometrics and Data Science Portfolio"
+  avatar           : "/images/RLP-142.jpg"
+  bio              : "Portfolio"
   location         : "College Station, Texas"
   email            : "AmyDSandoval16@gmail.com"
   linkedin         : "AmyDSandoval"

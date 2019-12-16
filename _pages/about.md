@@ -11,7 +11,7 @@ I am a recent graduate with a Bachelors of Science in Economics from Texas A&M U
 
 Other interests include animal rights, veganism, environmental justice, meditation, learning, always seeking to improve in all areas on my life, and leading with compassion.
 
-Please check out my papers tab to see papers I have written.
+Please check out the "Papers" tab to see papers I have written.
 
 [Click Here To View My Resume](https://drive.google.com/file/d/1yaMqug9t9EamjzjKTeWTkafjArreVkFm/view?usp=sharing)
 --

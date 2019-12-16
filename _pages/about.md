@@ -6,7 +6,7 @@ author_profile: true
 header:
   #image: "/Users/amysandoval/Desktop/Amy Graduation Photos/RLP-142"
 ---
-<img src= "/Users/amysandoval/Desktop/AmySandoval.github.io/RLP-142.jpg" alt="linearly separable data">
+<img src= "/Users/amysandoval/Desktop/AmySandoval.github.io/RLP-142.jpg">
 
 I am a recent graduate with a Bachelors of Science in Economics from Texas A&M University. I am currently in search of a full time employment. My working experience consists of primary experience in the printer repair sector.
 
